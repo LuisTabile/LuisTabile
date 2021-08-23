@@ -20,6 +20,6 @@ This project is simple Lorem ipsum dolor generator.
 
 	
 ## Projeto Atual
-To run this project, install it locally using npm:
+* Criação de um Sistema de Monitoramente e Supervisão de Unidades Transformadoras e Subestações de Energia.
 
 
