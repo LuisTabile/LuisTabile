@@ -10,11 +10,11 @@
 This project is simple Lorem ipsum dolor generator.
 	
 ## Linguagens
-*Java
-*JavaScript
-*C
-*Kotlin
-*Dart
+* Java
+* JavaScript
+* C
+* Kotlin
+* Dart
 
 ## Tecnologias
 
