@@ -1,9 +1,9 @@
 ### Seja Bem-Vindo(a) 👋
 
-## Table of contents
+## Tabela de Conteúdo 
 * [Informações Gerais](#Imformações-Gerais)
 * [Tecnologias ](#Tecnologias)
-* [Setup](#setup)
+* [Projeto Atual](#Projeto-Atual)
 
 ## Informações Gerais
 This project is simple Lorem ipsum dolor generator.
@@ -14,7 +14,7 @@ Project is created with:
 * Ipsum version: 2.33
 * Ament library version: 999
 	
-## Setup
+## Projeto Atual
 To run this project, install it locally using npm:
 
 
