@@ -1,14 +1,14 @@
 ### Seja Bem-Vindo(a) 👋
 
 ## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
+* [Informações Gerais](#Imformações-Gerais)
+* [Tecnologias ](#Tecnologias)
 * [Setup](#setup)
 
-## General info
+## Informações Gerais
 This project is simple Lorem ipsum dolor generator.
 	
-## Technologies
+## Tecnologias
 Project is created with:
 * Lorem version: 12.3
 * Ipsum version: 2.33
