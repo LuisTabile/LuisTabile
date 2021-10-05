@@ -6,7 +6,7 @@
 * [Projeto Atual](#Projeto-Atual)
 
 ## Informações Gerais
-This project is simple Lorem ipsum dolor generator.
+Atualmente trabalhando no Grupo de Automação Industrial e Controle, desenvolvedor Mobile e Front-END.
 	
 ## Linguagens
 * Java
@@ -16,6 +16,6 @@ This project is simple Lorem ipsum dolor generator.
 * Dart
 
 ## Projeto Atual
-* Criação de um Sistema de Monitoramente e Supervisão de Unidades Transformadoras e Subestações de Energia.
+* Atualmente trabalhando na criação de um Sistema de Monitoramente e Supervisão de Unidades Transformadoras e Subestações de Energia (CEEE).
 
 
